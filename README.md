@@ -2,8 +2,8 @@
 
 Il semble que votre lien soit mal formaté. Voici la correction :
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/HEAD)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)]((https://nevermind78.github.io/datailabproject/lab/index.html))
+
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
