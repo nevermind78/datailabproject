@@ -1,6 +1,6 @@
 # JupyterLite Demo
 
-Il semble que votre lien soit mal formaté. Voici la correction :
+lien ver jupyterlab  :
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://nevermind78.github.io/datailabproject/notebooks/index.html?path=commencer_avec_pandas.ipynb)
 
