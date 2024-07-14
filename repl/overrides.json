@@ -1,4 +1,9 @@
 {
+  "@jupyterlab/console-extension:tracker": {
+    "interactionMode": "terminal"
+  }
+},
+{
   "@jupyterlab/notebook-extension:panel": {
     "toolbar": [
       {
